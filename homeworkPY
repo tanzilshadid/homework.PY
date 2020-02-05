@@ -1,0 +1,6 @@
+a = 22
+b = 18
+
+if a > b:
+    a = b
+print(a)
